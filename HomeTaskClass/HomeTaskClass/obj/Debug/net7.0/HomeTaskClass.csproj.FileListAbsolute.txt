@@ -1,0 +1,15 @@
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net7.0\HomeTaskClass.exe
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net7.0\HomeTaskClass.deps.json
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net7.0\HomeTaskClass.runtimeconfig.json
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net7.0\HomeTaskClass.dll
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\bin\Debug\net7.0\HomeTaskClass.pdb
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\HomeTaskClass.csproj.AssemblyReference.cache
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\HomeTaskClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\HomeTaskClass.AssemblyInfoInputs.cache
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\HomeTaskClass.AssemblyInfo.cs
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\HomeTaskClass.csproj.CoreCompileInputs.cache
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\HomeTaskClass.dll
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\refint\HomeTaskClass.dll
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\HomeTaskClass.pdb
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\HomeTaskClass.genruntimeconfig.cache
+C:\Users\Lenovov\source\repos\HomeTaskClass\HomeTaskClass\obj\Debug\net7.0\ref\HomeTaskClass.dll
